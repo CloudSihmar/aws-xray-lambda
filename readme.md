@@ -10,7 +10,7 @@ We will set up Lambda X-Ray to view where in the code there might be bottlenecks
 
 You will first need to download the `function.zip` file included in this repo. You don't need to unzip it (unless you would like to look at the contents), we will be uploaded it to Lambda as is.
 
-![Untitled](images/Untitled%200.png)
+
 
 We will be creating this environment in the ap-southeast-2 region, so all links to the console will be there. Make sure you change region if you’re deploying elsewhere.
 
